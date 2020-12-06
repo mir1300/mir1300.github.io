@@ -1,6 +1,6 @@
 @font-face {
   font-family: vazir;
-  src:url(Vazir.woff);
+  src: href(Vazir.woff);
   font-weight: normal;
 }
 body {
